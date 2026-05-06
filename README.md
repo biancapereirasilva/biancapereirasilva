@@ -80,3 +80,14 @@ Me chamo Bianca Pereira, tenho 25 anos e sou de São Paulo. Atualmente, estou cu
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=biancapereirasilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+---
+
+### 📫 Contato
+
+<a href="https://www.linkedin.com/in/bianca-pereira-866845213/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+    alt="LinkedIn" 
+  />
+</a>
