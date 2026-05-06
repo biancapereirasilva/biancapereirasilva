@@ -71,12 +71,12 @@ Me chamo Bianca Pereira, tenho 25 anos e sou de São Paulo. Atualmente, estou cu
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=biancapereirasilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://streak-stats.demolab.com?user=biancapereirasilva&theme=tokyonight&locale=pt_BR" 
   />
   <img 
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancapereirasilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=biancapereirasilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>  
+</p>
