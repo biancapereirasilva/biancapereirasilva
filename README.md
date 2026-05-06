@@ -18,5 +18,11 @@ Me chamo Bianca Pereira, tenho 25 anos e sou de São Paulo. Atualmente, estou cu
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/biancapereirasilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a>
+   <a href="https://github.com/biancapereirasilva">
+    <img 
+        alt="views" 
+        title="GitHub profile views" 
+        src="https://komarev.com/ghpvc/?username=biancapereirasilva&color=236ad3&style=for-the-badge&label=Visualizações"/>
+</a>
+</p>
 </p>
