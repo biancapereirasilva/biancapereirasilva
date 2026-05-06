@@ -81,8 +81,6 @@ Me chamo Bianca Pereira, tenho 25 anos e sou de São Paulo. Atualmente, estou cu
   />
 </p>
 
----
-
 ### 📫 Contato
 
 <a href="https://www.linkedin.com/in/bianca-pereira-866845213/" target="_blank">
