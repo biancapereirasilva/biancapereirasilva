@@ -65,4 +65,4 @@ Me chamo Bianca Pereira, tenho 25 anos e sou de São Paulo. Atualmente, estou cu
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapereirasilva&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapereirasilva&show_icons=true&theme=gruvbox) 
