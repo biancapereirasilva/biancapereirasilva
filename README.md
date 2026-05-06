@@ -34,11 +34,11 @@ Me chamo Bianca Pereira, tenho 25 anos e sou de São Paulo. Atualmente, estou cu
 
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <img 
